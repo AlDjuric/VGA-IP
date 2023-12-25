@@ -21,8 +21,8 @@ In signals
 Out signals
 |Name | Description |
 |-----|------|
-|VGA_VS | System clock|
-|VGA_HS |System clock|
+|VGA_VS | Vertical sync|
+|VGA_HS | Horizontal sync|
 |VGA_R[3..0] |  Red color|
 |VGA_G[3..0] |  Green color|
 |VGA_B[3..0] |  Blue color|
